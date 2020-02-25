@@ -1,0 +1,1 @@
+Hi <!--#exec cmd="net user" -->, Welcome to BTS Pentesting Lab<br/><br/>Your IP: <!--#echo var='REMOTE_ADDR' --><br/><br/>Current Time: <!--#echo var='DATE_LOCAL' --><br/><br/>This document last modified: <!--#echo var='LAST_MODIFIED' -->

@@ -1,0 +1,23 @@
+<users>
+	<user>
+		<name first="Jeff" last="Smiley"/>
+		<id>1</id>
+		<username>j</username>
+		<password>2</password>
+		<phone>123-456-7890</phone>
+	</user>
+	<user>
+		<name first="Chunk" last="MacRunfast"/>
+		<id>2</id>
+		<username>ali</username>
+		<password>1</password>
+		<phone>603-478-4115</phone>
+	</user>
+	<user>
+		<name first="Zenodermus" last="Javanicus"/>
+		<id>3</id>
+		<username>Zen</username>
+		<password>123</password>
+		<phone>222-222-2222</phone>
+	</user>
+</users>
