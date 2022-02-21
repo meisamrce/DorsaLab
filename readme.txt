@@ -1,7 +1,6 @@
-Free Training Course Web Application Penetration Testing  :
+Free Video Training Course Web Application Penetration Testing  :
 
 https://www.youtube.com/watch?v=Z15SDYpai7M&list=PLEu6iK6TemwUdJKsd7f3AETONrpLzDtI6
-
 
 
 Dorsa Lab a Vulnerable Web Application (@dorsateam - @meisamrce)
